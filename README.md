@@ -1,2 +1,2 @@
 # jpeg-hide
-Python program to hide text into JPEG images.
+Python 3 program to hide text into JPEG images.
